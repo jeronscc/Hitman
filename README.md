@@ -29,7 +29,7 @@ battle. This is the key in completing the game.
 
 ## How to Play
 
-### Command Lits
+### Command Lists
 
 shoot - This gun has already unlocked its true potential. 1 bullet will instakill an enemy. <br />
 reload - Refills the magazine. <br />
