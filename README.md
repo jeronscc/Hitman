@@ -42,7 +42,9 @@ use - Lets you use your Combat Merit. Remember, this will complete the game. <br
 ## How to Download
 
 Clone the repository or download the project. <br />
-[x] git clone https://github.com/jeronscc/Shooting-Game [x]
+'''
+git clone https://github.com/jeronscc/Shooting-Game
+'''
 
 ## Credits
 
