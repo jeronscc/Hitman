@@ -31,13 +31,13 @@ battle. This is the key in completing the game.
 
 ### Command Lists
 
-shoot - This gun has already unlocked its true potential. 1 bullet will instakill an enemy. <br />
-reload - Refills the magazine. <br />
-stats - Views all of your statline and items in the battlefield <br />
-inject - Replenishes 8 stamina. ADRENALINE REQUIRED! <br />
-shop - Lets you buy items at the market. <br />
-exit - Extracts you from the combat zone. <br /> 
-use - Lets you use your Combat Merit. Remember, this will complete the game. <br />
+`shoot` - This gun has already unlocked its true potential. 1 bullet will instakill an enemy. <br />
+`reload` - Refills the magazine. <br />
+`stats` - Views all of your statline and items in the battlefield <br />
+`inject` - Replenishes 8 stamina. ADRENALINE REQUIRED! <br />
+`shop` - Lets you buy items at the market. <br />
+`exit` - Extracts you from the combat zone. <br /> 
+`use` - Lets you use your Combat Merit. Remember, this will complete the game. <br />
 
 ## How to Download
 
