@@ -42,7 +42,7 @@ battle. This is the key in completing the game.
 ## How to Download
 
 Clone the repository or download the project. <br />
-`git clone https://github.com/jeronscc/Shooting-Game`
+`git clone https://github.com/jeronscc/Hitman`
 
 ## Credits
 
